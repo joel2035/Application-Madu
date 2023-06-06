@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "given",
+    "description": "Cantine végetarienne",
+    "address": "89 rue de Bagnolet",
+    "zipcode": "75020",
+    "city": "Paris",
+    "website": "https://www.facebook.com/givencantine/",
+    "tags": ["bio", "local", "traditionnelle"],
+    "greenscore": 68,
+    "accessibility": true,
+    "suggestionRate": 49,
+    "price": 2,
+    "criteria": {
+      "food": { "note": 89 },
+      "equipment": { "note": 37 },
+      "social": { "note": 78 }
+    },
+    "openingHours": "Tous les jours sauf le lundi de 10h à 18h."
+  },
+  {
+    "id": 2,
+    "name": "abattoir vegetal",
+    "description": "Restaurant vegan situé au coeur de Montmartre proposant plats de cuisine végétale très variés. Brunch disponible le dimanche",
+    "address": "61 rue Ramey",
+    "zipcode": "75018",
+    "city": "Paris",
+    "website": "https://www.abattoirvegetal.com",
+    "tags": ["bio", "local", "vegan"],
+    "greenscore": 70,
+    "accessibility": true,
+    "suggestionRate": 74,
+    "price": 3,
+    "criteria": {
+      "food": { "note": 89 },
+      "equipment": { "note": 37 },
+      "social": { "note": 78 }
+    },
+    "openingHours": "Tous les jours sauf le lundi de 10h à 18h.",
+    "image": "../../assets/images/abattoirveg.jpg"
+  },
+  {
+    "id": 3,
+    "name": "vg patisserie",
+    "description": "Pâtisseriee vegan située près de Bastille. Différents types de pâtisserie sont proposés, dont des alternatives sans lactose ouu gluten",
+    "address": "123 Boulevard Voltaire",
+    "zipcode": "75018",
+    "city": "Paris",
+    "website": "hvgpatisserie-commande.fr",
+    "tags": ["patisserie", "glutenfree", "vegan"],
+    "greenscore": 74,
+    "accessibility": true,
+    "suggestionRate": 90,
+    "price": 1,
+    "criteria": {
+      "food": { "note": 72 },
+      "equipment": { "note": 87 },
+      "social": { "note": 68 }
+    },
+    "openingHours": "Tous les jours sauf le lundi de 10h à 18h.",
+    "image": "../../assets/images/abattoirveg.jpg"
+  }
+]

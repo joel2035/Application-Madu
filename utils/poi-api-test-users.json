@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2,
+        "name": "abattoir vegetal",
+        "description": "Restaurant vegan situé au coeur de Montmartre proposant plats de cuisine végétale très variés. Brunch disponible le dimanche",
+        "address": "61 rue Ramey",
+        "zipcode": "75018",
+        "city": "Paris",
+        "website": "https://www.abattoirvegetal.com",
+        "tags": ["bio", "local", "vegan"],
+        "greenscore": 70,
+        "accessibility": true,
+        "suggestionRate": 74,
+        "price": 3,
+        "openingHours": "Tous les jours sauf le lundi de 10h à 18h."
+    },
+    {
+        "id": 2,
+        "name": "abattoir vegetal",
+        "description": "Restaurant vegan situé au coeur de Montmartre proposant plats de cuisine végétale très variés. Brunch disponible le dimanche",
+        "address": "61 rue Ramey",
+        "zipcode": "75018",
+        "city": "Paris",
+        "website": "https://www.abattoirvegetal.com",
+        "tags": ["bio", "local", "vegan"],
+        "greenscore": 70,
+        "accessibility": true,
+        "suggestionRate": 74,
+        "price": 3,
+        "openingHours": "Tous les jours sauf le lundi de 10h à 18h."
+    },
+    {
+        "id": 2,
+        "name": "abattoir vegetal",
+        "description": "Restaurant vegan situé au coeur de Montmartre proposant plats de cuisine végétale très variés. Brunch disponible le dimanche",
+        "address": "61 rue Ramey",
+        "zipcode": "75018",
+        "city": "Paris",
+        "website": "https://www.abattoirvegetal.com",
+        "tags": ["bio", "local", "vegan"],
+        "greenscore": 70,
+        "accessibility": true,
+        "suggestionRate": 74,
+        "price": 3,
+        "openingHours": "Tous les jours sauf le lundi de 10h à 18h."
+    }
+]

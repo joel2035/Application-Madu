@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "name": "Clean my mail",
+    "description": "Le défi est de vider ta boîte mail !",
+    "content": "Ce stockage émet du CO2, plus précisément 10g pour un an de stockage en moyenne pour un mail. Une entreprise de 100 personnes génère environ 13,6 tonnes de CO2 chaque année à cause des emails. C’est l’équivalent de 14 allers-retours Paris-New York en avion. Tu peux aussi te désabonner de certaines newsletter pour en recevoir moins.",
+    "days": 6,
+    "image": "../assets/images/Group_323.png"
+  },
+  {
+    "id": 2,
+    "name": "Top chef",
+    "description": "Le défi est de préparer un max de plats en avance !",
+    "content": "Adieu le gaspillage, maintenant on prépare ses petits plats de la semaine en avance.",
+    "days": 3,
+    "image": "../assets/images/Group 322.png"
+  },
+  {
+    "id": 3,
+    "name": "Be social",
+    "description": "Le défi est de parler autour de sois des bonnes manières !",
+    "content": "Parle aux gens de ton entourage des bonnes manières a prendre afin de devenir ecoresponsable",
+    "days": 1,
+    "image": "../assets/images/Group 406.png"
+  }
+]

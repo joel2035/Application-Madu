@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "madu-app",
+    "slug": "madu-app",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/madu_logo_blanc_grand.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#738BFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "sdkVersion": "37.0.0",
+    "description": "",
+    "privacy": "unlisted"
+  }
+}
